@@ -48,9 +48,11 @@ public class CourseController {
     }
     //DELETE
 
+/*
     @DeleteMapping("/courses/{id}")
     public void deleteCourse(@PathVariable long id){
         repository.deleteById(id);
     }
+*/
     }
 
